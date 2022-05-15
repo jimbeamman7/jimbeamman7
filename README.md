@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
+### Hi there 👋 I'm Devendra
 > Software Engineer & Head of BD at [Huobi Incubator](https://softnep.com)
 
 
