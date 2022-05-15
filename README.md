@@ -4,16 +4,22 @@
 </p>
 
 ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+> Software Engineer & Head of BD at [Huobi Incubator](https://softnep.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am currently employed as a full-time head of BD for incubator arm in Huobi Global. I have efficient experience and resource to building ecosystem on public chain. Myself also proficient in Solidity and Python.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+Due to my multi-background across tech & investing and my position. We team up a vanguard for Huobi Incubator to running Aptos nodes. We were a validator, node operator and service provider on various public chain. Not only tech advantage but also we know how to build.
+
+We collaborate w/ number of top tie blockchain investment institution, tech community and media by leverage Huobi Global resource. We used to successfully help Evmos, Arweave and Celo to build their ecosystem as well we want to leverage those resource to build on Aptos.
+
+We also have a team from Hong Kong, Singapore and Canada. Our main business includes：run highly reliable and secure validators and nodes to support various blockchain networks、developing open-source ecosystem tools and core blockchain modules . I’m also in charge of the node operating service and also do some coding myself. We have been supporting Ki Chain, Celo, OSMOSIS, and other project masternets.
+
+Looking forward to be partners with multiple projects.
 </p>
 </div>
 
